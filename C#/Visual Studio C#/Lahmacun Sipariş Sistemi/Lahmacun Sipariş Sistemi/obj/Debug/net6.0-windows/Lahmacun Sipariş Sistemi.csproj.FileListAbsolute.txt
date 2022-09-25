@@ -1,0 +1,18 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\bin\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\bin\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.deps.json
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\bin\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.runtimeconfig.json
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\bin\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\bin\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\obj\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\obj\Debug\net6.0-windows\Lahmacun_Sipariş_Sistemi.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\obj\Debug\net6.0-windows\Lahmacun_Sipariş_Sistemi.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\obj\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\obj\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\obj\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.AssemblyInfoInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\obj\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.AssemblyInfo.cs
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\obj\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\obj\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\obj\Debug\net6.0-windows\refint\Lahmacun Sipariş Sistemi.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\obj\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\obj\Debug\net6.0-windows\Lahmacun Sipariş Sistemi.genruntimeconfig.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Lahmacun Sipariş Sistemi\Lahmacun Sipariş Sistemi\obj\Debug\net6.0-windows\ref\Lahmacun Sipariş Sistemi.dll

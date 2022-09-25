@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\KMOİ Kısa Oyun\KMOİ Kısa Oyun\bin\Debug\KMOİ Kısa Oyun.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\KMOİ Kısa Oyun\KMOİ Kısa Oyun\bin\Debug\KMOİ Kısa Oyun.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\KMOİ Kısa Oyun\KMOİ Kısa Oyun\bin\Debug\KMOİ Kısa Oyun.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\KMOİ Kısa Oyun\KMOİ Kısa Oyun\obj\Debug\KMOİ Kısa Oyun.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\KMOİ Kısa Oyun\KMOİ Kısa Oyun\obj\Debug\KMOİ Kısa Oyun.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\KMOİ Kısa Oyun\KMOİ Kısa Oyun\obj\Debug\KMOİ_Kısa_Oyun.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\KMOİ Kısa Oyun\KMOİ Kısa Oyun\obj\Debug\KMOİ_Kısa_Oyun.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\KMOİ Kısa Oyun\KMOİ Kısa Oyun\obj\Debug\KMOİ Kısa Oyun.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\KMOİ Kısa Oyun\KMOİ Kısa Oyun\obj\Debug\KMOİ Kısa Oyun.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\KMOİ Kısa Oyun\KMOİ Kısa Oyun\obj\Debug\KMOİ Kısa Oyun.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\KMOİ Kısa Oyun\KMOİ Kısa Oyun\obj\Debug\KMOİ Kısa Oyun.pdb

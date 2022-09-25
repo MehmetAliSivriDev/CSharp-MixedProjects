@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\faktoriyel ve  gsk toplam hesaplama\faktoriyel ve  gsk toplam hesaplama\bin\Debug\faktoriyel ve  gsk toplam hesaplama.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\faktoriyel ve  gsk toplam hesaplama\faktoriyel ve  gsk toplam hesaplama\bin\Debug\faktoriyel ve  gsk toplam hesaplama.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\faktoriyel ve  gsk toplam hesaplama\faktoriyel ve  gsk toplam hesaplama\bin\Debug\faktoriyel ve  gsk toplam hesaplama.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\faktoriyel ve  gsk toplam hesaplama\faktoriyel ve  gsk toplam hesaplama\obj\Debug\faktoriyel ve  gsk toplam hesaplama.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\faktoriyel ve  gsk toplam hesaplama\faktoriyel ve  gsk toplam hesaplama\obj\Debug\faktoriyel ve  gsk toplam hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\faktoriyel ve  gsk toplam hesaplama\faktoriyel ve  gsk toplam hesaplama\obj\Debug\faktoriyel_ve__gsk_toplam_hesaplama.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\faktoriyel ve  gsk toplam hesaplama\faktoriyel ve  gsk toplam hesaplama\obj\Debug\faktoriyel_ve__gsk_toplam_hesaplama.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\faktoriyel ve  gsk toplam hesaplama\faktoriyel ve  gsk toplam hesaplama\obj\Debug\faktoriyel ve  gsk toplam hesaplama.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\faktoriyel ve  gsk toplam hesaplama\faktoriyel ve  gsk toplam hesaplama\obj\Debug\faktoriyel ve  gsk toplam hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\faktoriyel ve  gsk toplam hesaplama\faktoriyel ve  gsk toplam hesaplama\obj\Debug\faktoriyel ve  gsk toplam hesaplama.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\faktoriyel ve  gsk toplam hesaplama\faktoriyel ve  gsk toplam hesaplama\obj\Debug\faktoriyel ve  gsk toplam hesaplama.pdb

@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Toptancı Kayıt Defteri Programı\Toptancı Kayıt Defteri Programı\bin\Debug\Toptancı Kayıt Defteri Programı.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Toptancı Kayıt Defteri Programı\Toptancı Kayıt Defteri Programı\bin\Debug\Toptancı Kayıt Defteri Programı.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Toptancı Kayıt Defteri Programı\Toptancı Kayıt Defteri Programı\bin\Debug\Toptancı Kayıt Defteri Programı.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Toptancı Kayıt Defteri Programı\Toptancı Kayıt Defteri Programı\obj\Debug\Toptancı Kayıt Defteri Programı.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Toptancı Kayıt Defteri Programı\Toptancı Kayıt Defteri Programı\obj\Debug\Toptancı Kayıt Defteri Programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Toptancı Kayıt Defteri Programı\Toptancı Kayıt Defteri Programı\obj\Debug\Toptancı_Kayıt_Defteri_Programı.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Toptancı Kayıt Defteri Programı\Toptancı Kayıt Defteri Programı\obj\Debug\Toptancı_Kayıt_Defteri_Programı.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Toptancı Kayıt Defteri Programı\Toptancı Kayıt Defteri Programı\obj\Debug\Toptancı Kayıt Defteri Programı.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Toptancı Kayıt Defteri Programı\Toptancı Kayıt Defteri Programı\obj\Debug\Toptancı Kayıt Defteri Programı.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Toptancı Kayıt Defteri Programı\Toptancı Kayıt Defteri Programı\obj\Debug\Toptancı Kayıt Defteri Programı.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Toptancı Kayıt Defteri Programı\Toptancı Kayıt Defteri Programı\obj\Debug\Toptancı Kayıt Defteri Programı.pdb

@@ -1,0 +1,18 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\bin\Debug\net6.0-windows\Basit Kayıt Defteri.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\bin\Debug\net6.0-windows\Basit Kayıt Defteri.deps.json
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\bin\Debug\net6.0-windows\Basit Kayıt Defteri.runtimeconfig.json
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\bin\Debug\net6.0-windows\Basit Kayıt Defteri.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\bin\Debug\net6.0-windows\Basit Kayıt Defteri.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\obj\Debug\net6.0-windows\Basit Kayıt Defteri.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\obj\Debug\net6.0-windows\Basit_Kayıt_Defteri.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\obj\Debug\net6.0-windows\Basit Kayıt Defteri.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\obj\Debug\net6.0-windows\Basit Kayıt Defteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\obj\Debug\net6.0-windows\Basit Kayıt Defteri.AssemblyInfoInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\obj\Debug\net6.0-windows\Basit Kayıt Defteri.AssemblyInfo.cs
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\obj\Debug\net6.0-windows\Basit Kayıt Defteri.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\obj\Debug\net6.0-windows\Basit Kayıt Defteri.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\obj\Debug\net6.0-windows\refint\Basit Kayıt Defteri.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\obj\Debug\net6.0-windows\Basit Kayıt Defteri.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\obj\Debug\net6.0-windows\Basit Kayıt Defteri.genruntimeconfig.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\obj\Debug\net6.0-windows\ref\Basit Kayıt Defteri.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Kayıt Defteri\Basit Kayıt Defteri\obj\Debug\net6.0-windows\Basit_Kayıt_Defteri.Form1.resources

@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kütüphane Kayıt Defteri\Kütüphane Kayıt Defteri\bin\Debug\Kütüphane Kayıt Defteri.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kütüphane Kayıt Defteri\Kütüphane Kayıt Defteri\bin\Debug\Kütüphane Kayıt Defteri.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kütüphane Kayıt Defteri\Kütüphane Kayıt Defteri\bin\Debug\Kütüphane Kayıt Defteri.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kütüphane Kayıt Defteri\Kütüphane Kayıt Defteri\obj\Debug\Kütüphane Kayıt Defteri.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kütüphane Kayıt Defteri\Kütüphane Kayıt Defteri\obj\Debug\Kütüphane Kayıt Defteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kütüphane Kayıt Defteri\Kütüphane Kayıt Defteri\obj\Debug\Kütüphane_Kayıt_Defteri.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kütüphane Kayıt Defteri\Kütüphane Kayıt Defteri\obj\Debug\Kütüphane_Kayıt_Defteri.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kütüphane Kayıt Defteri\Kütüphane Kayıt Defteri\obj\Debug\Kütüphane Kayıt Defteri.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kütüphane Kayıt Defteri\Kütüphane Kayıt Defteri\obj\Debug\Kütüphane Kayıt Defteri.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kütüphane Kayıt Defteri\Kütüphane Kayıt Defteri\obj\Debug\Kütüphane Kayıt Defteri.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kütüphane Kayıt Defteri\Kütüphane Kayıt Defteri\obj\Debug\Kütüphane Kayıt Defteri.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lahmacun Sipariş Sistemi/1.0.0": {
+        "runtime": {
+          "Lahmacun Sipariş Sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lahmacun Sipariş Sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Trafik Lambası\Trafik Lambası\bin\Debug\Trafik Lambası.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Trafik Lambası\Trafik Lambası\bin\Debug\Trafik Lambası.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Trafik Lambası\Trafik Lambası\bin\Debug\Trafik Lambası.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Trafik Lambası\Trafik Lambası\obj\Debug\Trafik Lambası.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Trafik Lambası\Trafik Lambası\obj\Debug\Trafik Lambası.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Trafik Lambası\Trafik Lambası\obj\Debug\Trafik_Lambası.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Trafik Lambası\Trafik Lambası\obj\Debug\Trafik_Lambası.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Trafik Lambası\Trafik Lambası\obj\Debug\Trafik Lambası.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Trafik Lambası\Trafik Lambası\obj\Debug\Trafik Lambası.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Trafik Lambası\Trafik Lambası\obj\Debug\Trafik Lambası.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Trafik Lambası\Trafik Lambası\obj\Debug\Trafik Lambası.pdb

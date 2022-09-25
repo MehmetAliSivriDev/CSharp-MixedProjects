@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Koltuk Rezerv Uygulaması\Koltuk Rezerv Uygulaması\bin\Debug\Koltuk Rezerv Uygulaması.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Koltuk Rezerv Uygulaması\Koltuk Rezerv Uygulaması\bin\Debug\Koltuk Rezerv Uygulaması.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Koltuk Rezerv Uygulaması\Koltuk Rezerv Uygulaması\bin\Debug\Koltuk Rezerv Uygulaması.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Koltuk Rezerv Uygulaması\Koltuk Rezerv Uygulaması\obj\Debug\Koltuk Rezerv Uygulaması.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Koltuk Rezerv Uygulaması\Koltuk Rezerv Uygulaması\obj\Debug\Koltuk Rezerv Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Koltuk Rezerv Uygulaması\Koltuk Rezerv Uygulaması\obj\Debug\Koltuk_Rezerv_Uygulaması.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Koltuk Rezerv Uygulaması\Koltuk Rezerv Uygulaması\obj\Debug\Koltuk_Rezerv_Uygulaması.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Koltuk Rezerv Uygulaması\Koltuk Rezerv Uygulaması\obj\Debug\Koltuk Rezerv Uygulaması.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Koltuk Rezerv Uygulaması\Koltuk Rezerv Uygulaması\obj\Debug\Koltuk Rezerv Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Koltuk Rezerv Uygulaması\Koltuk Rezerv Uygulaması\obj\Debug\Koltuk Rezerv Uygulaması.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Koltuk Rezerv Uygulaması\Koltuk Rezerv Uygulaması\obj\Debug\Koltuk Rezerv Uygulaması.pdb

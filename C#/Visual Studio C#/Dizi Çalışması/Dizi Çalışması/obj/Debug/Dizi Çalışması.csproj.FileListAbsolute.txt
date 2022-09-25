@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Dizi Çalışması\Dizi Çalışması\bin\Debug\Dizi Çalışması.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Dizi Çalışması\Dizi Çalışması\bin\Debug\Dizi Çalışması.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Dizi Çalışması\Dizi Çalışması\bin\Debug\Dizi Çalışması.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Dizi Çalışması\Dizi Çalışması\obj\Debug\Dizi Çalışması.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Dizi Çalışması\Dizi Çalışması\obj\Debug\Dizi Çalışması.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Dizi Çalışması\Dizi Çalışması\obj\Debug\Dizi_Çalışması.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Dizi Çalışması\Dizi Çalışması\obj\Debug\Dizi_Çalışması.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Dizi Çalışması\Dizi Çalışması\obj\Debug\Dizi Çalışması.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Dizi Çalışması\Dizi Çalışması\obj\Debug\Dizi Çalışması.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Dizi Çalışması\Dizi Çalışması\obj\Debug\Dizi Çalışması.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Dizi Çalışması\Dizi Çalışması\obj\Debug\Dizi Çalışması.pdb

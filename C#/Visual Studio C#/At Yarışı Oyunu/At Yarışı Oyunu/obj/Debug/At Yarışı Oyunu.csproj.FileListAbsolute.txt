@@ -1,0 +1,16 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\bin\Debug\At Yarışı Oyunu.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\bin\Debug\At Yarışı Oyunu.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\bin\Debug\At Yarışı Oyunu.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\obj\Debug\At Yarışı Oyunu.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\obj\Debug\At Yarışı Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\obj\Debug\At_Yarışı_Oyunu.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\obj\Debug\At_Yarışı_Oyunu.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\obj\Debug\At Yarışı Oyunu.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\obj\Debug\At Yarışı Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\obj\Debug\At Yarışı Oyunu.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\obj\Debug\At Yarışı Oyunu.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\bin\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\obj\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\At Yarışı Oyunu\At Yarışı Oyunu\obj\Debug\At Yarışı Oyunu.csproj.ResolveComReference.cache

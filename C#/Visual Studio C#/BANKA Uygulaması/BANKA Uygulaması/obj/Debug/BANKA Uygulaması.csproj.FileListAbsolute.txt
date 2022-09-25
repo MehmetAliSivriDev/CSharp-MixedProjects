@@ -1,0 +1,19 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\BANKA Uygulaması.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\BANKA Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\BANKA_Uygulaması.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\BANKA_Uygulaması.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\BANKA Uygulaması.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\BANKA Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\bin\Debug\BANKA Uygulaması.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\bin\Debug\BANKA Uygulaması.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\bin\Debug\BANKA Uygulaması.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\BANKA Uygulaması.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\BANKA Uygulaması.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\BANKA Uygulaması.csproj.ResolveComReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\BANKA_Uygulaması.Form2.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\BANKA_Uygulaması.Form3.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\BANKA Uygulaması\BANKA Uygulaması\obj\Debug\BANKA_Uygulaması.Form4.resources

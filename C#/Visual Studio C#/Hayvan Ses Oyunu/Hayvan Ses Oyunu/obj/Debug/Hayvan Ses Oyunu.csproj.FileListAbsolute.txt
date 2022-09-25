@@ -1,0 +1,19 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\bin\Debug\Hayvan Ses Oyunu.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\bin\Debug\Hayvan Ses Oyunu.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\bin\Debug\Hayvan Ses Oyunu.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\Hayvan Ses Oyunu.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\Hayvan Ses Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\Hayvan_Ses_Oyunu.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\Hayvan_Ses_Oyunu.Form2.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\Hayvan_Ses_Oyunu.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\Hayvan Ses Oyunu.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\Hayvan Ses Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\Hayvan Ses Oyunu.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\Hayvan Ses Oyunu.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\bin\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\Hayvan Ses Oyunu.csproj.ResolveComReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\Hayvan_Ses_Oyunu.Form3.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Ses Oyunu\Hayvan Ses Oyunu\obj\Debug\Hayvan_Ses_Oyunu.Form4.resources

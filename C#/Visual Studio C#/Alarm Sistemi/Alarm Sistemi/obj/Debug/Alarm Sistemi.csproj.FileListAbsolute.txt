@@ -1,0 +1,16 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\bin\Debug\Alarm Sistemi.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\bin\Debug\Alarm Sistemi.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\bin\Debug\Alarm Sistemi.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\obj\Debug\Alarm Sistemi.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\obj\Debug\Alarm Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\obj\Debug\Alarm_Sistemi.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\obj\Debug\Alarm_Sistemi.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\obj\Debug\Alarm Sistemi.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\obj\Debug\Alarm Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\obj\Debug\Alarm Sistemi.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\obj\Debug\Alarm Sistemi.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Alarm Sistemi\Alarm Sistemi\obj\Debug\Alarm Sistemi.csproj.ResolveComReference.cache

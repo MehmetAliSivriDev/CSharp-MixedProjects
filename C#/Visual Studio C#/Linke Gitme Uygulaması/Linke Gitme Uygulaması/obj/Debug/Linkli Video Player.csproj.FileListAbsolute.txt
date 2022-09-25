@@ -1,0 +1,17 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\bin\Debug\Linkli Video Player.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\bin\Debug\Linkli Video Player.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\bin\Debug\Linkli Video Player.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\obj\Debug\Linkli Video Player.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\obj\Debug\Linkli Video Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\obj\Debug\Linkli_Video_Player.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\obj\Debug\Linkli_Video_Player.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\obj\Debug\Linkli Video Player.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\obj\Debug\Linkli Video Player.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\obj\Debug\Linkli Video Player.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\obj\Debug\Linkli Video Player.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\obj\Debug\Linkli Video Player.csproj.ResolveComReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Linkli Video Player\Linkli Video Player\obj\Debug\Linkli_Video_Player.Form2.resources

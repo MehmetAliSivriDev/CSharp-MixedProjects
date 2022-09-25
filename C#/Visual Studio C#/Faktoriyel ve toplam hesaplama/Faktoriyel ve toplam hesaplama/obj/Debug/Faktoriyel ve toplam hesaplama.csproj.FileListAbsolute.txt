@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Faktoriyel ve toplam hesaplama\Faktoriyel ve toplam hesaplama\obj\Debug\Faktoriyel ve toplam hesaplama.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Faktoriyel ve toplam hesaplama\Faktoriyel ve toplam hesaplama\obj\Debug\Faktoriyel ve toplam hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Faktoriyel ve toplam hesaplama\Faktoriyel ve toplam hesaplama\obj\Debug\Faktoriyel_ve_toplam_hesaplama.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Faktoriyel ve toplam hesaplama\Faktoriyel ve toplam hesaplama\obj\Debug\Faktoriyel_ve_toplam_hesaplama.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Faktoriyel ve toplam hesaplama\Faktoriyel ve toplam hesaplama\obj\Debug\Faktoriyel ve toplam hesaplama.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Faktoriyel ve toplam hesaplama\Faktoriyel ve toplam hesaplama\obj\Debug\Faktoriyel ve toplam hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Faktoriyel ve toplam hesaplama\Faktoriyel ve toplam hesaplama\bin\Debug\Faktoriyel ve toplam hesaplama.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Faktoriyel ve toplam hesaplama\Faktoriyel ve toplam hesaplama\bin\Debug\Faktoriyel ve toplam hesaplama.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Faktoriyel ve toplam hesaplama\Faktoriyel ve toplam hesaplama\bin\Debug\Faktoriyel ve toplam hesaplama.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Faktoriyel ve toplam hesaplama\Faktoriyel ve toplam hesaplama\obj\Debug\Faktoriyel ve toplam hesaplama.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Faktoriyel ve toplam hesaplama\Faktoriyel ve toplam hesaplama\obj\Debug\Faktoriyel ve toplam hesaplama.pdb

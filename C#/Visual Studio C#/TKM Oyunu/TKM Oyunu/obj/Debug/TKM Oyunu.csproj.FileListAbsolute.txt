@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\TKM Oyunu\TKM Oyunu\bin\Debug\TKM Oyunu.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\TKM Oyunu\TKM Oyunu\bin\Debug\TKM Oyunu.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\TKM Oyunu\TKM Oyunu\bin\Debug\TKM Oyunu.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\TKM Oyunu\TKM Oyunu\obj\Debug\TKM Oyunu.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\TKM Oyunu\TKM Oyunu\obj\Debug\TKM Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\TKM Oyunu\TKM Oyunu\obj\Debug\TKM_Oyunu.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\TKM Oyunu\TKM Oyunu\obj\Debug\TKM_Oyunu.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\TKM Oyunu\TKM Oyunu\obj\Debug\TKM Oyunu.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\TKM Oyunu\TKM Oyunu\obj\Debug\TKM Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\TKM Oyunu\TKM Oyunu\obj\Debug\TKM Oyunu.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\TKM Oyunu\TKM Oyunu\obj\Debug\TKM Oyunu.pdb

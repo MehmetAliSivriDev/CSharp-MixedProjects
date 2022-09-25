@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Timer ile gökkuşağı\Timer ile gökkuşağı\bin\Debug\Timer ile gökkuşağı.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Timer ile gökkuşağı\Timer ile gökkuşağı\bin\Debug\Timer ile gökkuşağı.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Timer ile gökkuşağı\Timer ile gökkuşağı\bin\Debug\Timer ile gökkuşağı.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Timer ile gökkuşağı\Timer ile gökkuşağı\obj\Debug\Timer ile gökkuşağı.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Timer ile gökkuşağı\Timer ile gökkuşağı\obj\Debug\Timer ile gökkuşağı.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Timer ile gökkuşağı\Timer ile gökkuşağı\obj\Debug\Timer_ile_gökkuşağı.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Timer ile gökkuşağı\Timer ile gökkuşağı\obj\Debug\Timer_ile_gökkuşağı.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Timer ile gökkuşağı\Timer ile gökkuşağı\obj\Debug\Timer ile gökkuşağı.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Timer ile gökkuşağı\Timer ile gökkuşağı\obj\Debug\Timer ile gökkuşağı.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Timer ile gökkuşağı\Timer ile gökkuşağı\obj\Debug\Timer ile gökkuşağı.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Timer ile gökkuşağı\Timer ile gökkuşağı\obj\Debug\Timer ile gökkuşağı.pdb

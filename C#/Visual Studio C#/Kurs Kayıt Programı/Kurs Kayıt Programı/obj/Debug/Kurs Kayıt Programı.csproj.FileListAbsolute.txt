@@ -1,0 +1,13 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kurs Kayıt Programı\Kurs Kayıt Programı\bin\Debug\Kurs Kayıt Programı.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kurs Kayıt Programı\Kurs Kayıt Programı\bin\Debug\Kurs Kayıt Programı.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kurs Kayıt Programı\Kurs Kayıt Programı\bin\Debug\Kurs Kayıt Programı.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kurs Kayıt Programı\Kurs Kayıt Programı\obj\Debug\Kurs Kayıt Programı.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kurs Kayıt Programı\Kurs Kayıt Programı\obj\Debug\Kurs Kayıt Programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kurs Kayıt Programı\Kurs Kayıt Programı\obj\Debug\Kurs_Kayıt_Programı.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kurs Kayıt Programı\Kurs Kayıt Programı\obj\Debug\Kurs_Kayıt_Programı.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kurs Kayıt Programı\Kurs Kayıt Programı\obj\Debug\Kurs Kayıt Programı.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kurs Kayıt Programı\Kurs Kayıt Programı\obj\Debug\Kurs Kayıt Programı.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kurs Kayıt Programı\Kurs Kayıt Programı\obj\Debug\Kurs Kayıt Programı.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kurs Kayıt Programı\Kurs Kayıt Programı\obj\Debug\Kurs Kayıt Programı.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kurs Kayıt Programı\Kurs Kayıt Programı\obj\Debug\Kurs_Kayıt_Programı.Form2.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kurs Kayıt Programı\Kurs Kayıt Programı\obj\Debug\Kurs_Kayıt_Programı.Form3.resources

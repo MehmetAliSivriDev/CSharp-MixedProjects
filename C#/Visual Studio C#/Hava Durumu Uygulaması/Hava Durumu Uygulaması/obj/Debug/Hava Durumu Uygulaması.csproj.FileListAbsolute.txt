@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hava Durumu Uygulaması\Hava Durumu Uygulaması\bin\Debug\Hava Durumu Uygulaması.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hava Durumu Uygulaması\Hava Durumu Uygulaması\bin\Debug\Hava Durumu Uygulaması.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hava Durumu Uygulaması\Hava Durumu Uygulaması\bin\Debug\Hava Durumu Uygulaması.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hava Durumu Uygulaması\Hava Durumu Uygulaması\obj\Debug\Hava Durumu Uygulaması.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hava Durumu Uygulaması\Hava Durumu Uygulaması\obj\Debug\Hava Durumu Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hava Durumu Uygulaması\Hava Durumu Uygulaması\obj\Debug\Hava_Durumu_Uygulaması.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hava Durumu Uygulaması\Hava Durumu Uygulaması\obj\Debug\Hava_Durumu_Uygulaması.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hava Durumu Uygulaması\Hava Durumu Uygulaması\obj\Debug\Hava Durumu Uygulaması.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hava Durumu Uygulaması\Hava Durumu Uygulaması\obj\Debug\Hava Durumu Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hava Durumu Uygulaması\Hava Durumu Uygulaması\obj\Debug\Hava Durumu Uygulaması.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hava Durumu Uygulaması\Hava Durumu Uygulaması\obj\Debug\Hava Durumu Uygulaması.pdb

@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Zar Atma Programı\Zar Atma Programı\bin\Debug\Zar Atma Programı.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Zar Atma Programı\Zar Atma Programı\bin\Debug\Zar Atma Programı.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Zar Atma Programı\Zar Atma Programı\bin\Debug\Zar Atma Programı.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Zar Atma Programı\Zar Atma Programı\obj\Debug\Zar Atma Programı.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Zar Atma Programı\Zar Atma Programı\obj\Debug\Zar Atma Programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Zar Atma Programı\Zar Atma Programı\obj\Debug\Zar_Atma_Programı.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Zar Atma Programı\Zar Atma Programı\obj\Debug\Zar_Atma_Programı.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Zar Atma Programı\Zar Atma Programı\obj\Debug\Zar Atma Programı.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Zar Atma Programı\Zar Atma Programı\obj\Debug\Zar Atma Programı.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Zar Atma Programı\Zar Atma Programı\obj\Debug\Zar Atma Programı.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Zar Atma Programı\Zar Atma Programı\obj\Debug\Zar Atma Programı.pdb

@@ -1,0 +1,16 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\bin\Debug\Radyo.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\bin\Debug\Radyo.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\bin\Debug\Radyo.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\bin\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\obj\Debug\Radyo.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\obj\Debug\Radyo.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\obj\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\obj\Debug\Radyo.csproj.ResolveComReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\obj\Debug\Radyo.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\obj\Debug\Radyo.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\obj\Debug\Radyo.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\obj\Debug\Radyo.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\obj\Debug\Radyo.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Radyo\Radyo\obj\Debug\Radyo.pdb

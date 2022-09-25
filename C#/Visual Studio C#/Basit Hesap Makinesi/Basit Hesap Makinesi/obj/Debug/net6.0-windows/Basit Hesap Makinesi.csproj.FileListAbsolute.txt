@@ -1,0 +1,17 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net6.0-windows\Basit Hesap Makinesi.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net6.0-windows\Basit Hesap Makinesi.deps.json
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net6.0-windows\Basit Hesap Makinesi.runtimeconfig.json
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net6.0-windows\Basit Hesap Makinesi.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net6.0-windows\Basit Hesap Makinesi.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net6.0-windows\Basit Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net6.0-windows\Basit_Hesap_Makinesi.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net6.0-windows\Basit Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net6.0-windows\Basit Hesap Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net6.0-windows\Basit Hesap Makinesi.AssemblyInfoInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net6.0-windows\Basit Hesap Makinesi.AssemblyInfo.cs
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net6.0-windows\Basit Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net6.0-windows\Basit Hesap Makinesi.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net6.0-windows\refint\Basit Hesap Makinesi.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net6.0-windows\Basit Hesap Makinesi.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net6.0-windows\Basit Hesap Makinesi.genruntimeconfig.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net6.0-windows\ref\Basit Hesap Makinesi.dll

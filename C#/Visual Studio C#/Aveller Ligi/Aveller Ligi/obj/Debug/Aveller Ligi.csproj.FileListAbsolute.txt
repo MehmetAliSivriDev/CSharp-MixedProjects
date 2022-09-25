@@ -1,0 +1,17 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\bin\Debug\Aveller Ligi.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\bin\Debug\Aveller Ligi.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\bin\Debug\Aveller Ligi.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\obj\Debug\Aveller Ligi.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\obj\Debug\Aveller Ligi.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\obj\Debug\Aveller_Ligi.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\obj\Debug\Aveller_Ligi.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\obj\Debug\Aveller Ligi.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\obj\Debug\Aveller Ligi.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\obj\Debug\Aveller Ligi.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\obj\Debug\Aveller Ligi.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\bin\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\obj\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\obj\Debug\Aveller Ligi.csproj.ResolveComReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Aveller Ligi\Aveller Ligi\obj\Debug\Aveller_Ligi.Form2.resources

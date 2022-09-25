@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Buton Oyunu\Buton Oyunu\bin\Debug\Buton Oyunu.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Buton Oyunu\Buton Oyunu\bin\Debug\Buton Oyunu.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Buton Oyunu\Buton Oyunu\bin\Debug\Buton Oyunu.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Buton Oyunu\Buton Oyunu\obj\Debug\Buton Oyunu.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Buton Oyunu\Buton Oyunu\obj\Debug\Buton Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Buton Oyunu\Buton Oyunu\obj\Debug\Buton_Oyunu.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Buton Oyunu\Buton Oyunu\obj\Debug\Buton_Oyunu.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Buton Oyunu\Buton Oyunu\obj\Debug\Buton Oyunu.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Buton Oyunu\Buton Oyunu\obj\Debug\Buton Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Buton Oyunu\Buton Oyunu\obj\Debug\Buton Oyunu.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Buton Oyunu\Buton Oyunu\obj\Debug\Buton Oyunu.pdb

@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Eşleştirme Oyunu\Eşleştirme Oyunu\bin\Debug\Eşleştirme Oyunu.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Eşleştirme Oyunu\Eşleştirme Oyunu\bin\Debug\Eşleştirme Oyunu.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Eşleştirme Oyunu\Eşleştirme Oyunu\bin\Debug\Eşleştirme Oyunu.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.pdb

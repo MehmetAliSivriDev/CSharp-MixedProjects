@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Çarpım Tablosu\Çarpım Tablosu\bin\Debug\Çarpım Tablosu.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Çarpım Tablosu\Çarpım Tablosu\bin\Debug\Çarpım Tablosu.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Çarpım Tablosu\Çarpım Tablosu\bin\Debug\Çarpım Tablosu.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Çarpım Tablosu\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Çarpım Tablosu\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Çarpım Tablosu\Çarpım Tablosu\obj\Debug\Çarpım_Tablosu.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Çarpım Tablosu\Çarpım Tablosu\obj\Debug\Çarpım_Tablosu.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Çarpım Tablosu\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Çarpım Tablosu\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Çarpım Tablosu\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Çarpım Tablosu\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.pdb

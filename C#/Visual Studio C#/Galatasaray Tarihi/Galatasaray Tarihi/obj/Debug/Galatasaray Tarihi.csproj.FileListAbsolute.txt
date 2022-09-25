@@ -1,0 +1,16 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\bin\Debug\Galatasaray Tarihi.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\bin\Debug\Galatasaray Tarihi.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\bin\Debug\Galatasaray Tarihi.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\obj\Debug\Galatasaray Tarihi.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\obj\Debug\Galatasaray Tarihi.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\obj\Debug\Galatasaray_Tarihi.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\obj\Debug\Galatasaray_Tarihi.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\obj\Debug\Galatasaray Tarihi.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\obj\Debug\Galatasaray Tarihi.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\obj\Debug\Galatasaray Tarihi.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\obj\Debug\Galatasaray Tarihi.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\obj\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\obj\Debug\Galatasaray Tarihi.csproj.ResolveComReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\bin\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Galatasaray Tarihi\Galatasaray Tarihi\bin\Debug\AxInterop.WMPLib.dll

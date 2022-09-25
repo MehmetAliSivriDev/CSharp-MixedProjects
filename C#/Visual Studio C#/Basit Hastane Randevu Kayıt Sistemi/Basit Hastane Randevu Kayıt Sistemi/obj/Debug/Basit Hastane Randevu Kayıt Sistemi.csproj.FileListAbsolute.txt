@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hastane Randevu Kayıt Sistemi\Basit Hastane Randevu Kayıt Sistemi\bin\Debug\Basit Hastane Randevu Kayıt Sistemi.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hastane Randevu Kayıt Sistemi\Basit Hastane Randevu Kayıt Sistemi\bin\Debug\Basit Hastane Randevu Kayıt Sistemi.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hastane Randevu Kayıt Sistemi\Basit Hastane Randevu Kayıt Sistemi\bin\Debug\Basit Hastane Randevu Kayıt Sistemi.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hastane Randevu Kayıt Sistemi\Basit Hastane Randevu Kayıt Sistemi\obj\Debug\Basit Hastane Randevu Kayıt Sistemi.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hastane Randevu Kayıt Sistemi\Basit Hastane Randevu Kayıt Sistemi\obj\Debug\Basit Hastane Randevu Kayıt Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hastane Randevu Kayıt Sistemi\Basit Hastane Randevu Kayıt Sistemi\obj\Debug\Basit_Hastane_Randevu_Kayıt_Sistemi.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hastane Randevu Kayıt Sistemi\Basit Hastane Randevu Kayıt Sistemi\obj\Debug\Basit_Hastane_Randevu_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hastane Randevu Kayıt Sistemi\Basit Hastane Randevu Kayıt Sistemi\obj\Debug\Basit Hastane Randevu Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hastane Randevu Kayıt Sistemi\Basit Hastane Randevu Kayıt Sistemi\obj\Debug\Basit Hastane Randevu Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hastane Randevu Kayıt Sistemi\Basit Hastane Randevu Kayıt Sistemi\obj\Debug\Basit Hastane Randevu Kayıt Sistemi.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Basit Hastane Randevu Kayıt Sistemi\Basit Hastane Randevu Kayıt Sistemi\obj\Debug\Basit Hastane Randevu Kayıt Sistemi.pdb

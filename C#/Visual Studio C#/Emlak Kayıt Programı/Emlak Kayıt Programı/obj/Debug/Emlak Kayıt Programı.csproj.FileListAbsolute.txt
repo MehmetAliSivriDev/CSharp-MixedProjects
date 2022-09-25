@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Emlak Kayıt Programı\Emlak Kayıt Programı\bin\Debug\Emlak Kayıt Programı.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Emlak Kayıt Programı\Emlak Kayıt Programı\bin\Debug\Emlak Kayıt Programı.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Emlak Kayıt Programı\Emlak Kayıt Programı\bin\Debug\Emlak Kayıt Programı.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Emlak Kayıt Programı\Emlak Kayıt Programı\obj\Debug\Emlak Kayıt Programı.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Emlak Kayıt Programı\Emlak Kayıt Programı\obj\Debug\Emlak Kayıt Programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Emlak Kayıt Programı\Emlak Kayıt Programı\obj\Debug\Emlak_Kayıt_Programı.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Emlak Kayıt Programı\Emlak Kayıt Programı\obj\Debug\Emlak_Kayıt_Programı.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Emlak Kayıt Programı\Emlak Kayıt Programı\obj\Debug\Emlak Kayıt Programı.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Emlak Kayıt Programı\Emlak Kayıt Programı\obj\Debug\Emlak Kayıt Programı.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Emlak Kayıt Programı\Emlak Kayıt Programı\obj\Debug\Emlak Kayıt Programı.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Emlak Kayıt Programı\Emlak Kayıt Programı\obj\Debug\Emlak Kayıt Programı.pdb

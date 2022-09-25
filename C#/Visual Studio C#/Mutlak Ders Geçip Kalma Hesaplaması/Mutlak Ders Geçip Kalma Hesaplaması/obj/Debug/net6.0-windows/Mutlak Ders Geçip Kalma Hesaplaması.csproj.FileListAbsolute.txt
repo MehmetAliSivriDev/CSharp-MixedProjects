@@ -1,0 +1,17 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\bin\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\bin\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.deps.json
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\bin\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.runtimeconfig.json
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\bin\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\bin\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\obj\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\obj\Debug\net6.0-windows\Mutlak_Ders_Geçip_Kalma_Hesaplaması.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\obj\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\obj\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\obj\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.AssemblyInfoInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\obj\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.AssemblyInfo.cs
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\obj\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\obj\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\obj\Debug\net6.0-windows\refint\Mutlak Ders Geçip Kalma Hesaplaması.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\obj\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\obj\Debug\net6.0-windows\Mutlak Ders Geçip Kalma Hesaplaması.genruntimeconfig.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Mutlak Ders Geçip Kalma Hesaplaması\Mutlak Ders Geçip Kalma Hesaplaması\obj\Debug\net6.0-windows\ref\Mutlak Ders Geçip Kalma Hesaplaması.dll

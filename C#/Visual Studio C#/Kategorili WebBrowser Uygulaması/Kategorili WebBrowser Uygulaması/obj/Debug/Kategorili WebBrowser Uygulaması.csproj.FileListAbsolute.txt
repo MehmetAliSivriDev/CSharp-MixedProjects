@@ -1,0 +1,11 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kategorili WebBrowser Uygulaması\Kategorili WebBrowser Uygulaması\bin\Debug\Kategorili WebBrowser Uygulaması.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kategorili WebBrowser Uygulaması\Kategorili WebBrowser Uygulaması\bin\Debug\Kategorili WebBrowser Uygulaması.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kategorili WebBrowser Uygulaması\Kategorili WebBrowser Uygulaması\bin\Debug\Kategorili WebBrowser Uygulaması.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kategorili WebBrowser Uygulaması\Kategorili WebBrowser Uygulaması\obj\Debug\Kategorili WebBrowser Uygulaması.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kategorili WebBrowser Uygulaması\Kategorili WebBrowser Uygulaması\obj\Debug\Kategorili WebBrowser Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kategorili WebBrowser Uygulaması\Kategorili WebBrowser Uygulaması\obj\Debug\Kategorili_WebBrowser_Uygulaması.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kategorili WebBrowser Uygulaması\Kategorili WebBrowser Uygulaması\obj\Debug\Kategorili_WebBrowser_Uygulaması.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kategorili WebBrowser Uygulaması\Kategorili WebBrowser Uygulaması\obj\Debug\Kategorili WebBrowser Uygulaması.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kategorili WebBrowser Uygulaması\Kategorili WebBrowser Uygulaması\obj\Debug\Kategorili WebBrowser Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kategorili WebBrowser Uygulaması\Kategorili WebBrowser Uygulaması\obj\Debug\Kategorili WebBrowser Uygulaması.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Kategorili WebBrowser Uygulaması\Kategorili WebBrowser Uygulaması\obj\Debug\Kategorili WebBrowser Uygulaması.pdb

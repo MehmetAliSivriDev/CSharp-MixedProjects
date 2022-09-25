@@ -1,0 +1,14 @@
+Hesap Bilgilerini Görüntüleme
+para yatırma
+para çekme
+döviz işlemleri
+para transferi bölümü
+hesaptan çıkış bölümü
+
+hesap verisi : 
+
+3000tl
+2gr Altın
+
+
+

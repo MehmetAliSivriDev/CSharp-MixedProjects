@@ -1,0 +1,16 @@
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\bin\Debug\Hayvan Gösterme Programı.exe.config
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\bin\Debug\Hayvan Gösterme Programı.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\bin\Debug\Hayvan Gösterme Programı.pdb
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\bin\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\obj\Debug\Hayvan Gösterme Programı.csproj.AssemblyReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\obj\Debug\Hayvan Gösterme Programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\obj\Debug\Interop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\obj\Debug\Hayvan Gösterme Programı.csproj.ResolveComReference.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\obj\Debug\Hayvan_Gösterme_Programı.Form1.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\obj\Debug\Hayvan_Gösterme_Programı.Properties.Resources.resources
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\obj\Debug\Hayvan Gösterme Programı.csproj.GenerateResource.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\obj\Debug\Hayvan Gösterme Programı.csproj.CoreCompileInputs.cache
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\obj\Debug\Hayvan Gösterme Programı.exe
+C:\Users\sivri\Documents\Yazılım\C#\Visual Studio C#\Hayvan Gösterme Programı\Hayvan Gösterme Programı\obj\Debug\Hayvan Gösterme Programı.pdb
